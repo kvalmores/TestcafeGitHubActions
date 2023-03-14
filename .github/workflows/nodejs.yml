@@ -4,7 +4,7 @@ on: [push]
 
 jobs:
   build:
-    name: Run TetCafe Tests
+    name: Run TestCafe Tests
     runs-on: windows-latest
     
     steps:
@@ -12,4 +12,4 @@ jobs:
     - name: Install TestCafe from npm and Run Tests
       uses: DevExpress/testcafe-action@latest
       with:
-        args: "chrome tests"
+        args: "chrome test"
