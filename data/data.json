@@ -1,0 +1,20 @@
+[
+    {
+        "firstname": "John",
+        "lastname": "Doe",
+        "birthday": "5",
+        "birthmonth": "November",
+        "birthyear": "1983",
+        "email": "john_doe",
+        "password": "123456"
+    },
+    {
+        "firstname": "Peter",
+        "lastname": "Parker",
+        "birthday": "2",
+        "birthmonth": "July",
+        "birthyear": "1981",
+        "email": "peter_parker",
+        "password": "6789433"
+    }
+]
